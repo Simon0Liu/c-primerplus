@@ -11,5 +11,6 @@ int main()
 	cout << endl;
 	carrots = carrots - 1;
 	cout << "Crunch, Crunch. Now I have " << carrots << " carrots." << endl;
+	cout << "####" << endl;
 	return 0;
 }
